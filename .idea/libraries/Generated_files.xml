@@ -2,19 +2,32 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/transition-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-relative-urls-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/scrollspy-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-VisitorPlugin-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/tooltip-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-strict-units-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/npm-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-postProcessor-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/modal-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-postProcessorPlugin-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/carousel-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-no-js-errors-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/dropdown-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-global-vars-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/collapse-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-modify-vars-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/button-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-production-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/popover-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-relative-urls-spec-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/tab-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-strict-units-spec-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/affix-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-preProcessorPlugin-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-filemanagerPlugin-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/js/alert-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-no-js-errors-spec-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-modify-vars-spec-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-rootpath-options-compiled.js" />
@@ -300,33 +313,53 @@
         <item url="file://$PROJECT_DIR$/node_modules/less/test/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/ms/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/plugins/preprocess/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/prr/prr-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/plugins/filemanager/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/q/queue-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-postProcessorPlugin-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/Gruntfile-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/ncp/bin/ncp-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/plugins/visitor/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-rootpath-relative-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-glyphicons-data-generator-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/nan/include_dirs-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-preProcessorPlugin-options-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-lessdoc-parser-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-rootpath-relative-spec-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-commonjs-generator-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-raw-files-generator-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-filemanagerPlugin-options-compiled.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/transition-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-relative-urls-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/scrollspy-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-VisitorPlugin-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/tooltip-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-strict-units-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/npm-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-postProcessor-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/modal-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-postProcessorPlugin-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/carousel-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-no-js-errors-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/dropdown-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-global-vars-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/collapse-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-modify-vars-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/button-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-production-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/popover-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-relative-urls-spec-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/tab-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-strict-units-spec-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/affix-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-preProcessorPlugin-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-filemanagerPlugin-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/js/alert-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-no-js-errors-spec-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-modify-vars-spec-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-rootpath-options-compiled.js" />
@@ -612,16 +645,23 @@
       <root url="file://$PROJECT_DIR$/node_modules/less/test/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/ms/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/plugins/preprocess/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/prr/prr-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/plugins/filemanager/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/q/queue-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-postProcessorPlugin-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/Gruntfile-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/ncp/bin/ncp-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/plugins/visitor/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-rootpath-relative-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-glyphicons-data-generator-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/nan/include_dirs-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-preProcessorPlugin-options-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-lessdoc-parser-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-rootpath-relative-spec-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-commonjs-generator-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-raw-files-generator-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/less/test/browser/runner-filemanagerPlugin-options-compiled.js" />
     </CLASSES>
     <SOURCES />
